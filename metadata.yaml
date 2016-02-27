@@ -1,0 +1,36 @@
+_repo: My-Life-and-My-Efforts_2780
+alternative_title: Mein Leben und Streben. English
+contributor:
+  translator:
+    agent_name: Olesch, Gunther
+    gutenberg_agent_id: '1019'
+    url: http://www.gutenberg.org/2009/agents/1019
+creator:
+  author:
+    agent_name: May, Karl
+    aliases:
+    - May, Karl Friedrich
+    - May, Carl
+    - Linden, E. von
+    - Hohenthal, Karl
+    birthdate: 1842
+    deathdate: 1912
+    gutenberg_agent_id: '1018'
+    url: http://www.gutenberg.org/2009/agents/1018
+    wikipedia: http://en.wikipedia.org/wiki/Karl_May
+description: Translation of Mein Leben und Streben.
+gutenberg_issued: '2001-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2780'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'May, Karl Friedrich, 1842-1912'
+- !lcc 'CT'
+- !lcsh 'Authors, German -- 19th century -- Biography'
+- !lcc 'PT'
+title: My Life and My Efforts
+url: http://www.gutenberg.org/ebooks/2780
