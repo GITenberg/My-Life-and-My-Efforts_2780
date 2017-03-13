@@ -1,11 +1,14 @@
 _repo: My-Life-and-My-Efforts_2780
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mein Leben und Streben. English
 contributor:
   translator:
     agent_name: Olesch, Gunther
     gutenberg_agent_id: '1019'
     url: http://www.gutenberg.org/2009/agents/1019
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: May, Karl
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1018
     wikipedia: http://en.wikipedia.org/wiki/Karl_May
 description: Translation of Mein Leben und Streben.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2780#My-Life-and-My-Efforts
 gutenberg_issued: '2001-08-01'
 gutenberg_type: Text
 identifiers:
